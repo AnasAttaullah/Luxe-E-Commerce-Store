@@ -2,6 +2,8 @@
 
 A premium, responsive landing page template designed for fashion and lifestyle e-commerce brands. Built with HTML5 and Bootstrap 5, this project focuses on clean aesthetics, modern typography, and smooth user interactions.
 
+**🌐 Live Preview:** [View Live Demo](https://anasattaullah.github.io/Luxe-E-Commerce-Store/)
+
 ## 📸 Screenshot
 ![Store Scrrenshot](screenshot.png)
 
@@ -30,7 +32,7 @@ A premium, responsive landing page template designed for fashion and lifestyle e
 
 1.  **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/luxe-ecommerce.git
+    git clone https://github.com/AnasAttaullah/Luxe-E-Commerce-Store.git
     ```
 2.  **Open the file**:
     Simply double-click `landing.html` to open it in your default web browser. No local server or build process is required as all dependencies (Bootstrap, Fonts) are loaded via CDN.
